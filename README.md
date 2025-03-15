@@ -8,7 +8,7 @@
 <br>
 
 
-<h2>🛠️ My skills 🛠️</h2>
+<h2>🛠️ My skills</h2>
 
 ### Frontend
 <p align="left">
@@ -24,7 +24,7 @@
   <a href="https://nestjs.com/"><img src="https://img.shields.io/badge/-NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS"/></a>
 </p>
 
-### Database
+### Database Management Systems
 <p align="left">
   <a href="https://www.postgresql.org/"><img src="https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/></a>
   <a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/></a>
