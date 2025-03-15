@@ -11,14 +11,12 @@
 <h2>🛠️ My skills</h2>
 
 ### Languages
-<p align="left">
   ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+  
   [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)]
   [![PHP](https://img.shields.io/badge/php-%23777BB4.svg?&logo=php&logoColor=white)]
   [![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)]
   [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)]
-</p>
-
 
 ### Database Management Systems
 <p align="left">
