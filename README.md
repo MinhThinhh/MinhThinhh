@@ -26,7 +26,6 @@
 
 ### Database Management Systems
 <p align="left">
-  <a href="https://www.postgresql.org/"><img src="https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/></a>
   <a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/></a>
   <a href="https://www.mongodb.com/"><img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/></a>
 </p>
@@ -34,24 +33,13 @@
 ### Cloud Services
 <p align="left">
   <a href="https://aws.amazon.com/"><img src="https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/></a>
-  <a href="https://www.digitalocean.com/"><img src="https://img.shields.io/badge/-Digital%20Ocean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white" alt="Digital Ocean"/></a>
-  <a href="https://render.com/"><img src="https://img.shields.io/badge/-Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" alt="Render"/></a>
 </p>
 
 <br>
 
-<h2>🔧 Libraries n Tools I use 🔧</h2>
+<h2>🔧 Libraries & Tools </h2>
 <div>
-  <img src="https://skillicons.dev/icons?i=npm,vscode" /><br>
-  <img src="https://skillicons.dev/icons?i=docker,github" /><br>
+  <img src="https://skillicons.dev/icons?i=npm,vscode,docker,github" /><br>
 </div>
 
-<br>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=chuhaiphu&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
-<img src="https://raw.githubusercontent.com/chuhaiphu/chuhaiphu/output/pacman-contribution-graph.svg" alt="Pacman animation" />
-<br>
 
