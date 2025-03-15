@@ -3,7 +3,7 @@
 ###
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=172AC5&width=435&lines=Hi+travelers%2C;How's+it+going%3F;I'm+Thinh%2C;You+are+in+my+Github+profile%2C;Feel+free+to+wander+around+%3C3)](https://git.io/typing-svg)
 <div align="center">
-  <img height="320" src="https://user-images.githubusercontent.com/74038190/226190894-18e959ba-d458-4a94-ac44-790190f2a947.gif"/>
+  <img height="320" src="https://user-images.githubusercontent.com/74038190/216654095-6f6772e4-e433-4bba-9164-1ca6f463ac3f.gif"/>
 </div>
 <br>
 
