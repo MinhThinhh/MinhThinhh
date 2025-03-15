@@ -23,6 +23,8 @@
 [![WordPress](https://img.shields.io/badge/WordPress-%2321759B.svg?style=for-the-badge&logo=wordpress&logoColor=white)](#)
 [![Odoo](https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=Odoo&logoColor=fff)](#)
 
+<h2>![image](https://github.com/user-attachments/assets/1589c2a6-b67d-4dbf-8ef3-398de21017c2)
+ My skills</h2>
 
 
 
