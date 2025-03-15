@@ -23,12 +23,12 @@
 [![WordPress](https://img.shields.io/badge/WordPress-%2321759B.svg?style=for-the-badge&logo=wordpress&logoColor=white)](#)
 [![Odoo](https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=Odoo&logoColor=fff)](#)
 
-<h2>!🤭 </h2>
-## 📫 Contact Me  
-- 📧 Email: your.email@example.com  
-- 🔗 LinkedIn: [linkedin.com/in/your-profile](https://www.linkedin.com/in/your-profile)  
-- 💻 GitHub: [github.com/your-username](https://github.com/your-username)  
-- 🌐 Portfolio: [yourwebsite.com](https://yourwebsite.com) (if applicable)  
+<h2>📫 Contact Me</h2> 
+[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:vminhthinh03@gmail.com)
+[![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/minhthinhh/)
+[![facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/vominhthinh.9/)
+[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/thinhhnim/)
+
 
 
 
