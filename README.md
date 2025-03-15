@@ -12,10 +12,11 @@
 ### Languages
   ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
   
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)
-  ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?&logo=php&logoColor=white)
-  ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)
-  ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badgelogo=javascript&logoColor=000)
+  ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+  ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badgelogo=openjdk&logoColor=white)
+  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badgelogo=python&logoColor=fff)
 
 ### Database Management Systems
 <p align="left">
