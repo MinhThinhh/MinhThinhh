@@ -22,6 +22,11 @@
 ### CMS & Platforms
   ![WordPress](https://img.shields.io/badge/WordPress-%2321759B.svg?style=for-the-badge&logo=wordpress&logoColor=white)
   ![Odoo](https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=Odoo&logoColor=fff)
+
+### Libraries & Tools
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=fff)
+![Power BI](https://custom-icon-badges.demolab.com/badge/Power%20BI-F1C912?style=for-the-badge&logo=power-bi&logoColor=fff)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=fff)
 <br>
 
 ## 📫 Contact Me
