@@ -1,7 +1,7 @@
 ### 🌐 A Passionate web developer dedicated to mastering full-stack technologies, from frontend and backend to deployment
 
 ###
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=172AC5&width=435&lines=Hi+travelers%2C;How's+it+going%3F;I'm+Phu%2C;You+are+in+my+Github+profile%2C;Feel+free+to+wander+around+%3C3)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=172AC5&width=435&lines=Hi+travelers%2C;How's+it+going%3F;I'm+Thinh%2C;You+are+in+my+Github+profile%2C;Feel+free+to+wander+around+%3C3)](https://git.io/typing-svg)
 <div align="center">
   <img height="320" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif"/>
 </div>
