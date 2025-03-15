@@ -16,21 +16,15 @@
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=fff)
 
 ### Database Management Systems
-<p align="left">
-  <a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/></a>
-  <a href="https://www.mongodb.com/"><img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/></a>
-</p>
+  [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badgelogo=mysql&logoColor=fff)](#)
+  [![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badgelogo=mongodb&logoColor=white)](#)
 
-### Cloud Services
-<p align="left">
-  <a href="https://aws.amazon.com/"><img src="https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/></a>
-</p>
+### CMS & Platforms
+[![WordPress](https://img.shields.io/badge/WordPress-%2321759B.svg?style=for-the-badge&logo=wordpress&logoColor=white)](#)
+[![Odoo](https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=Odoo&logoColor=fff)](#)
 
-<br>
 
-<h2>🔧 Libraries & Tools </h2>
-<div>
-  <img src="https://skillicons.dev/icons?i=npm,vscode,docker,github" /><br>
-</div>
+
+
 
 
