@@ -1,4 +1,4 @@
-## 🌐 inal-year Information Systems student aspiring to become a Business Analyst. Skilled in requirements gathering, process modeling, and bridging the gap between business needs and technology solutions.
+## 🌐 Final-year Information Systems student aspiring to become a Business Analyst. Skilled in requirements gathering, process modeling, and bridging the gap between business needs and technology solutions.
 
 ###
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=172AC5&width=435&lines=Hi+there%2C;How's+it+going%3F;I'm+Thinh%2C;You+are+in+my+Github+profile%2C;Feel+free+to+wander+around+%3C3)](https://git.io/typing-svg)
